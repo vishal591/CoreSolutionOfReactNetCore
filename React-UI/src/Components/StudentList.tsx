@@ -144,9 +144,10 @@ export default class StudentList extends Component {
         this.setState({
             show:false
         })
+        
     }
 
-    
+
     handleCloseOnCreate = () => {        
         this.setState({
             showOnCreate:false
