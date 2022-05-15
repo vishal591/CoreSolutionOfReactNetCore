@@ -1,0 +1,88 @@
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\Port.exe
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\Port.deps.json
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\Port.runtimeconfig.json
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\Port.runtimeconfig.dev.json
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\Port.dll
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\Port.pdb
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\PortShip\Port\obj\Debug\netcoreapp3.1\Port.csprojAssemblyReference.cache
+C:\Projects\PortShip\Port\obj\Debug\netcoreapp3.1\Port.AssemblyInfoInputs.cache
+C:\Projects\PortShip\Port\obj\Debug\netcoreapp3.1\Port.AssemblyInfo.cs
+C:\Projects\PortShip\Port\obj\Debug\netcoreapp3.1\Port.csproj.CoreCompileInputs.cache
+C:\Projects\PortShip\Port\obj\Debug\netcoreapp3.1\Port.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\PortShip\Port\obj\Debug\netcoreapp3.1\Port.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\PortShip\Port\obj\Debug\netcoreapp3.1\Port.RazorTargetAssemblyInfo.cache
+C:\Projects\PortShip\Port\obj\Debug\netcoreapp3.1\Port.csproj.CopyComplete
+C:\Projects\PortShip\Port\obj\Debug\netcoreapp3.1\staticwebassets\Port.StaticWebAssets.Manifest.cache
+C:\Projects\PortShip\Port\obj\Debug\netcoreapp3.1\staticwebassets\Port.StaticWebAssets.xml
+C:\Projects\PortShip\Port\obj\Debug\netcoreapp3.1\Port.dll
+C:\Projects\PortShip\Port\obj\Debug\netcoreapp3.1\Port.pdb
+C:\Projects\PortShip\Port\obj\Debug\netcoreapp3.1\Port.genruntimeconfig.cache
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\React-Ui\package-lock.json
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\React-Ui\package.json
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\React-Ui\public\manifest.json
+C:\Projects\PortShip\Port\bin\Debug\netcoreapp3.1\React-Ui\tsconfig.json
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\React-UI\package-lock.json
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\React-UI\package.json
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\React-UI\public\manifest.json
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\React-UI\tsconfig.json
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\Port.exe
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\Port.deps.json
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\Port.runtimeconfig.json
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\Port.runtimeconfig.dev.json
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\Port.dll
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\Port.pdb
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Prectices\Core And React\Solution\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Prectices\Core And React\Solution\obj\Debug\netcoreapp3.1\Port.csprojAssemblyReference.cache
+D:\Prectices\Core And React\Solution\obj\Debug\netcoreapp3.1\Port.AssemblyInfoInputs.cache
+D:\Prectices\Core And React\Solution\obj\Debug\netcoreapp3.1\Port.AssemblyInfo.cs
+D:\Prectices\Core And React\Solution\obj\Debug\netcoreapp3.1\Port.csproj.CoreCompileInputs.cache
+D:\Prectices\Core And React\Solution\obj\Debug\netcoreapp3.1\Port.MvcApplicationPartsAssemblyInfo.cs
+D:\Prectices\Core And React\Solution\obj\Debug\netcoreapp3.1\Port.MvcApplicationPartsAssemblyInfo.cache
+D:\Prectices\Core And React\Solution\obj\Debug\netcoreapp3.1\Port.RazorTargetAssemblyInfo.cache
+D:\Prectices\Core And React\Solution\obj\Debug\netcoreapp3.1\Port.csproj.CopyComplete
+D:\Prectices\Core And React\Solution\obj\Debug\netcoreapp3.1\staticwebassets\Port.StaticWebAssets.Manifest.cache
+D:\Prectices\Core And React\Solution\obj\Debug\netcoreapp3.1\staticwebassets\Port.StaticWebAssets.xml
+D:\Prectices\Core And React\Solution\obj\Debug\netcoreapp3.1\Port.dll
+D:\Prectices\Core And React\Solution\obj\Debug\netcoreapp3.1\Port.pdb
+D:\Prectices\Core And React\Solution\obj\Debug\netcoreapp3.1\Port.genruntimeconfig.cache
