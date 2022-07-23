@@ -143,8 +143,7 @@ export default class StudentList extends Component {
     handleClose = () => {        
         this.setState({
             show:false
-        })
-        
+        })        
     }
 
 
@@ -154,7 +153,8 @@ export default class StudentList extends Component {
         })
     }
 
-   saveDataOnCreate = async() => {           
+   saveDataOnCreate = async() => { 
+        debugger         
         let collection : any =  await Object.freeze(this.state.record);        
         if(collection.length > 0){
                 if( collection[0]["name"] == undefined || collection[0]["name"] == "" || collection[0]["name"] == null)

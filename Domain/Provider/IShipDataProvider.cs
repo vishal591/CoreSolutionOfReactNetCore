@@ -4,6 +4,7 @@ using System.Collections.Generic;
 
 namespace Port.Domain.Provider
 {
+    
     public interface IShipDataProvider
     {
         Task<List<Ship>> GetAllShipsAsync();

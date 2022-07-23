@@ -28,9 +28,9 @@ namespace Port.Controller
             try
             {
                 var ships = await _shipDataProvider.GetAllShipsAsync();
-                if(ships.Count>0)
+                if(ships.Count >  0)
                 return ships;
-                else
+                else 
                 return Problem(statusCode:404,detail: "No record found",title:ApiErrorCodes.API_RESOURCE_NOT_FOUND_ERROR,type:"internal");
      
             }
